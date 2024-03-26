@@ -1,0 +1,16 @@
+Rutujit(RJ) Mallikarjuna
+CSE 13S - Kishore Pusukuri
+Programming Assignment 2 - Part A (Coolness)
+
+Description:
+The algorithm takes two arguments (T and V) , that are required to be in a certain range with -99 <= T <= 50 and 0.5 <= V. 
+T is defined as teperature and V is wind speed. The algorithm takes these two arguments, and runs it through a function
+that calculates the coolness of the room.
+
+Files:
+coolness.c - The file that contains the code and functions that calculates coolness based on
+Makefile -  runs algorithm upon opening the file
+coolness - Executable final *DO NOT OPEN*
+testing.sh -  A file to test with multiple custom inputs
+testing.out -  Outputs of the testing.sh file
+.gitignore - IGNORE THIS FINAL

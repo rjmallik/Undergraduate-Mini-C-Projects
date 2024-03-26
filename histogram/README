@@ -1,0 +1,16 @@
+Rutujit(RJ) Mallikarjuna
+CSE 13S - Kishore Pusukuri
+Programming Assignment 2 - Part B (Histogram)
+
+Description:
+Takes multiple inputs and adds it to a histogram. The histogram has 16 bins, and every time you get an input that is out of range of
+the histogram, the histogram range gets doubled, but still maintains 16 bins.
+
+
+Files:
+histogram.c - algorithm that takes inputs and creates histogram with 16 bins
+Makefile -  runs algorithm upon opening the file
+histogram - Executable final *DO NOT OPEN*
+testing.sh -  A file to test with multiple custom inputs
+testing.out -  Outputs of the testing.sh file
+.gitignore - IGNORE THIS FINAL
